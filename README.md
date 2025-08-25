@@ -22,4 +22,4 @@ Original plugin by [darktohka](https://github.com/darktohka)
 
 [Discord RPC Fork for Discord actvivity](https://github.com/kuba160/discord-rpc) by [kuba160](https://github.com/kuba160)
 
-I was also inspired by his plugin for [DeaDBeef Discord RPC](https://github.com/kuba160/ddb_discord_presence) Check it out too! :D
+I was also inspired by his plugin for [DeaDBeef Discord RPC](https://github.com/kuba160/ddb_discord_presence), check it out too! :D
