@@ -6,7 +6,9 @@
 3. Open Audacious, go to Settings -> Plugins and enable the `Discord RPC Plugin`.
 
 # Screenshots
-Later, i want to add covers
+<img width="274" height="123" alt="изображение" src="https://github.com/user-attachments/assets/b2111a1e-d461-4657-a3e6-95da51e14b63" />
+<img width="448" height="156" alt="изображение" src="https://github.com/user-attachments/assets/7f276cdf-4912-4b92-9c4c-6190bdec42ff" />
+
 
 # Compilation
 1. Clone the repository.
