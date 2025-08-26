@@ -1,6 +1,6 @@
 [submodule "libs/discord-rpc"]
 	path = libs/discord-rpc
-	url = https://github.com/kuba160/discord-rpc.git
+	url = https://github.com/InviseDivine/discord-rpc.git
 [submodule "libs/cpr"]
 	path = libs/cpr
 	url = https://github.com/libcpr/cpr.git
